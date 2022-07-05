@@ -24,3 +24,5 @@ spec:
                 name: skiapp-service
                 port:
                   number: 80
+
+
